@@ -2,6 +2,7 @@
 
 **Author:** Md Rifat Hossain  
 **Course:** MANE 4962 – Final Project  
+**Course Instructor:** M Arshad Zahangir Chowdhury  
 
 ---
 
